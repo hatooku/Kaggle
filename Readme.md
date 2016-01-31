@@ -1,7 +1,6 @@
 To do
 - Perceptron 1
-- Gradient Descent 2
-    - closed form?
+- Gradient Descent Closed Form 2
 - Stochastic Gradient Descent 3
 - Lasso (Squared Loss, logloss, etc.) 1
 - Ridge (Squared Loss, logloss, etc.) 2
@@ -23,3 +22,8 @@ To look up 3
 3 - Advith
 
 * Different Models/Loss Functions/Etc
+
+Test Data Scores
+———————————
+
+SGD (Advith):
