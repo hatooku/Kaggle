@@ -25,3 +25,4 @@ Test Data Scores
 ———————————
 
 SGD (Advith):
+Ridge, Cross-Validation (Joon): 0.714
