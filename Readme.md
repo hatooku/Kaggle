@@ -1,6 +1,4 @@
 To do
-- Perceptron 1
-- Gradient Descent Closed Form 2
 - Stochastic Gradient Descent 3
 - Lasso (Squared Loss, logloss, etc.) 1
 - Ridge (Squared Loss, logloss, etc.) 2
