@@ -7,6 +7,8 @@ To do
 - Bagging 3
 - Random Forest 1
 - Boosting 2
+    -AdaBoosted Decision Tree
+    -AdaBoosted Random Forest
 
 To look up 3
 - Other Ensemble Methods
