@@ -9,6 +9,7 @@ To do
 - Boosting 2
     -AdaBoosted Decision Tree
     -AdaBoosted Random Forest
+    -Feature Selection(Lasso) -> Adaboosted Random Forest?
 
 To look up 3
 - Other Ensemble Methods
