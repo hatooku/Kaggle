@@ -1,8 +1,6 @@
 To do
 - Stochastic Gradient Descent 3
 - Lasso (Squared Loss, logloss, etc.) 1
-- Ridge (Squared Loss, logloss, etc.) 2
-    - closed form?
 - Lasso -> Ridge (Feature Selection) 3
 - SVM 1
 - Decision Tree 2
@@ -25,4 +23,4 @@ Test Data Scores
 ———————————
 
 SGD (Advith):
-Ridge, Cross-Validation (Joon): 0.714
+Ridge, Cross-Validation (Joon): 0.714 (training) 0.596 (leaderboard)
