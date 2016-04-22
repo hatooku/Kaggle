@@ -19,11 +19,3 @@ To look up 3
 1 - Loko
 2 - Joon
 3 - Advith
-
-* Different Models/Loss Functions/Etc
-
-Test Data Scores
-———————————
-
-SGD (Advith):
-Ridge, Cross-Validation (Joon): 0.714 (training) 0.596 (leaderboard)
